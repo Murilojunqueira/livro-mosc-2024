@@ -1,0 +1,50 @@
+{
+  "index.qmd": {
+    "index.html": "182f5dc1"
+  },
+  "intro.qmd": {
+    "intro.html": "a85fa28f"
+  },
+  "summary.qmd": {
+    "summary.html": "3fdaf410"
+  },
+  "Metodologia.qmd": {
+    "Metodologia.html": "5848556e"
+  },
+  "ResumoResultados.qmd": {
+    "ResumoResultados.html": "246a0669"
+  },
+  "OSCsTerritorio.qmd": {
+    "OSCsTerritorio.html": "2f0284a3"
+  },
+  "FinalidadesOSCs.qmd": {
+    "FinalidadesOSCs.html": "7d2051e5"
+  },
+  "NaturezaOSCs.qmd": {
+    "NaturezaOSCs.html": "82ce488c"
+  },
+  "TrabalhoOSCs.qmd": {
+    "TrabalhoOSCs.html": "31ba0e66"
+  },
+  "PorteOSCs.qmd": {
+    "PorteOSCs.html": "8fa0f117"
+  },
+  "OSCsEscolaridadePessoal.qmd": {
+    "OSCsEscolaridadePessoal.html": "d6eaae10"
+  },
+  "OSCsRemuneracoes.qmd": {
+    "OSCsRemuneracoes.html": "499a2c9c"
+  },
+  "TransferenciasOSCs.qmd": {
+    "TransferenciasOSCs.html": "6052e3f5"
+  },
+  "EvolucaoQuantitativaOSCs.qmd": {
+    "EvolucaoQuantitativaOSCs.html": "8ff3b714"
+  },
+  "AusenciaDadosLacunas.qmd": {
+    "AusenciaDadosLacunas.html": "39587083"
+  },
+  "references.qmd": {
+    "references.html": "23d16e66"
+  }
+}

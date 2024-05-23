@@ -1,0 +1,35 @@
+project:
+  type: book
+
+book:
+  title: "Perfil das OSC (2024)"
+  author: "Alexandre, Murilo Raphael"
+  date: "23/05/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - Metodologia.qmd
+    - ResumoResultados.qmd
+    - OSCsTerritorio.qmd
+    - FinalidadesOSCs.qmd
+    - NaturezaOSCs.qmd
+    - TrabalhoOSCs.qmd
+    - PorteOSCs.qmd
+    - OSCsEscolaridadePessoal.qmd
+    - OSCsRemuneracoes.qmd
+    - TransferenciasOSCs.qmd
+    - EvolucaoQuantitativaOSCs.qmd
+    - AusenciaDadosLacunas.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
